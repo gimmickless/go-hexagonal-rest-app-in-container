@@ -1,0 +1,7 @@
+openapi: 3.0.1
+info:
+  title: SampleService
+  description: "A project template for Go REST services."
+  contact:
+    email: you@gmail.com
+  version: "1.0.0"
